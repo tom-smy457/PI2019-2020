@@ -1,0 +1,18 @@
+.top-menu{
+    background-color: lightblue;
+    height: 50px;
+    width: 100%;
+}
+
+.login{
+    background-color: black;
+}
+
+.bod{
+    background-color: yellow;
+    height: 900px;
+}
+
+.center-block{
+    float: none;
+}
